@@ -64,7 +64,7 @@ export default function HeroSection() {
         <div className="mt-12 flex flex-wrap justify-center gap-8 text-sm text-muted-foreground">
           <div className="flex items-center gap-2">
             <Zap className="h-5 w-5 text-primary" />
-            <span>Instant Results</span>
+            <span>Instant Results.</span>
           </div>
           <div className="flex items-center gap-2">
             <Shield className="h-5 w-5 text-primary" />
